@@ -1,10 +1,10 @@
 import haxe.ds.EnumValueMap;
 import haxe.ds.Option;
-import crowplexus.cne.hscript.Macro;
-import crowplexus.cne.hscript.Tools;
-import crowplexus.cne.hscript.Async;
-import crowplexus.cne.hscript.Printer;
-import crowplexus.cne.hscript.Checker;
+import codenamecrew.hscript.Macro;
+import codenamecrew.hscript.Tools;
+import codenamecrew.hscript.Async;
+import codenamecrew.hscript.Printer;
+import codenamecrew.hscript.Checker;
 import haxe.unit.*;
 
 class TestHScript extends TestCase {

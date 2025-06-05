@@ -1,7 +1,7 @@
 package;
 
 import haxe.*;
-import crowplexus.cne.hscript.*;
+import codenamecrew.hscript.*;
 import sys.*;
 import sys.io.*;
 import sys.net.*;
